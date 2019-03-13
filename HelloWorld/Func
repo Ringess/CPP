@@ -1,0 +1,9 @@
+#ifndef FUNC_INCLUDED
+#define FUNC_INCLUDED
+
+void laught2()
+{
+cout << "Му-ах-ха-ха!" << endl;
+}
+
+#endif // FUNC_INCLUDED

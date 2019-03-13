@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552474805 source:/home/azrahell/Documents/CPP/HelloWorld/main.cpp
+	<iostream>
+	"func.h"
+
+1552469190 source:/home/azrahell/Documents/CPP/HelloWorld/Additional.cpp
+
+1552475051 /home/azrahell/Documents/CPP/HelloWorld/func.h
+	<iostream>
+
